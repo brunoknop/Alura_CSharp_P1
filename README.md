@@ -1,5 +1,5 @@
 ## Este é o repositório do **primeiro curso** da minha formação em .NET na Alura.
-**_Título do curso na Alura:** C# - Parte 1_
+_**Título do curso na Alura:** C# - Parte 1_
 
 -----------------------------------------------------------------
 
